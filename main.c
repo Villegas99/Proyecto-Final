@@ -15,7 +15,6 @@ int seg = 0;
 int GameStart = 0;
 //Diseño y coordenadas de los personajes
 unsigned char coorUP[] = {7,8,12,16,17,19,25,31,33,37};//10
-//unsigned char coorDO[] = {3,10,11,16,22,25,26,30,34,38};//10
 unsigned char coorDO[] = {68,69,74,78,85,87,91,93,99,103};//10
 unsigned char Pattern1[]={0x0E,0x15,0x1F,0x11,0x15,0x1F,0x1F,0x15}; //Obstaculo1
 unsigned char Pattern2[]= {0x07,0x0F,0x11,0x1E,0x18,0x1F,0x0F,0x07}; //PersonajE
